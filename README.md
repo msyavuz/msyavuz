@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Salih</h1>
 <h3 align="center">A passionate developer and civil engineering student from Turkey</h3>
 
-- 🌱 I’m currently learning **Svelte, React-Native**
+- 🌱 I’m currently learning **Java, Spring**
 
 - 👨‍💻 All of my projects are available at [https://github.com/msyavuz](https://github.com/msyavuz)
 
