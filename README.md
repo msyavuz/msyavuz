@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/msyavuz](https://github.com/msyavuz)
 
-- 💬 Ask me about **Python, React, Svelte**
+- 💬 Ask me about **Python, Webdev**
 
 - 📫 How to reach me **salih.yavuz@metu.edu.tr**
 
