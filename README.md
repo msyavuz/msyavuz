@@ -16,6 +16,3 @@ Hi, i am Salih and i'm a Fullstack Developer who knows how to learn.<br><br>I us
 ![](https://github-contributor-stats.vercel.app/api?username=msyavuz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=msyavuz&icon=0&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
