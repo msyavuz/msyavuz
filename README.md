@@ -11,11 +11,7 @@ Hi, i am Salih and i'm a fullstack developer who loves to learn and build.
 - **DevOps:** Linux (Fedora, Arch, Debian, openSUSE), Docker
 
 ### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=msyavuz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=msyavuz&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=msyavuz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=msyavuz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-stats-extended.vercel.app/api?username=msyavuz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=msyavuz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
